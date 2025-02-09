@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://media-viral.github.io/berita/sitemap.xml
